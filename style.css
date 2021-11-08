@@ -1,0 +1,225 @@
+body{
+    display: grid;
+    justify-content: center;
+    justify-items: center;
+}
+
+.ramka {
+    position: center;
+    height: 750px;
+    width: 500px;
+    padding-top: 100px;
+    background-repeat: no-repeat;
+    background-image: url(./1.jpg);
+}
+
+.sun {
+    position: absolute;
+    height: 100px;
+    width: 100px;
+    margin-left: 280px;
+    margin-top: -80px;
+}
+.time{
+    font-size: 24px;
+}
+
+.PogodaNow {
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    background-color: rgb(169, 236, 245);
+    margin-left: 170px;
+}
+
+.gradusi {
+    position: absolute;
+    margin-top: 70px;
+    margin-left:45px;
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(94, 106, 206);
+}
+.davlenie {
+    position: absolute;
+    margin-left: 50px;
+    margin-top: 50px;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(74, 74, 160);
+}
+.pogoda {
+    position: absolute;
+    margin-left: 40px;
+    margin-top: 20px;
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(74, 74, 160);
+}
+
+.mesto {
+    text-align: center;
+    color: rgb(74, 74, 160);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+}
+
+.pogodaNaDen {
+    width: 500px;
+    height: 180px;
+    margin-top: 50px;
+}
+.one {
+    position: absolute;
+    width: 135px;
+    height: 120px;
+    background-color: rgb(169, 236, 245);
+    display: inline;
+    margin-left: 25px;
+    border-radius: 25%;
+}
+.time1 {
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    color: rgb(94, 106, 206);
+}
+.gradusi1 {
+    position: absolute;
+    margin-top: 40px;
+    margin-left: 55px;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(94, 106, 206);
+}
+.picture1 {
+    position: absolute;
+    margin-top: 60px;
+    margin-left: 40px;
+}
+.two {
+    width: 135px;
+    height: 120px;
+    background-color: rgb(169, 236, 245);
+    position: absolute;
+    display: inline;
+    margin-left: 185px;
+    border-radius: 25%;
+}
+.time2 {
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    color: rgb(94, 106, 206);
+}
+.gradusi2 {
+    position: absolute;
+    margin-top: 40px;
+    margin-left: 60px;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(94, 106, 206);
+}
+.picture2 {
+    position: absolute;
+    margin-top: 60px;
+    margin-left: 40px;
+}
+.three {
+    width: 135px;
+    height: 120px;
+    background-color: rgb(169, 236, 245);
+    position: absolute;
+    display: inline;
+    margin-left: 345px;
+    border-radius: 25%;
+}
+.time3 {
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    color: rgb(94, 106, 206);
+}
+.gradusi3 {
+    position: absolute;
+    margin-top: 40px;
+    margin-left: 60px;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(94, 106, 206);
+}
+.picture3 {
+    position: absolute;
+    margin-top: 60px;
+    margin-left: 40px;
+}
+.pogodaNaWeek {
+    width: 500px;
+    height: 250px;
+}
+
+.oneDay {
+    position: absolute;
+    width: 135px;
+    height: 240px;
+    background-color: rgb(169, 236, 245);
+    margin-left: 25px;
+    border-radius: 13%;
+    text-align: center;
+}
+.day1 {
+    font-size: 20px;
+    color: rgb(94, 106, 206);
+    
+}
+
+.temperatura1 {
+    font-size: 30px;
+    color: rgb(94, 106, 206);
+}
+.twoDay {
+    position: absolute;
+    width: 135px;
+    height: 240px;
+    background-color: rgb(169, 236, 245);
+    margin-left: 185px;
+    border-radius: 13%;
+    text-align: center;
+    
+}
+
+.day2 {
+    font-size: 20px;
+    color: rgb(94, 106, 206);;
+}
+
+.temperatura2 {
+    font-size: 30px;
+    color: rgb(94, 106, 206);
+}
+.threeDay {
+    position: absolute;
+    width: 135px;
+    height: 240px;
+    background-color: rgb(169, 236, 245);
+    margin-left: 345px;
+    border-radius: 13%;
+    text-align: center;
+}
+
+.day3 {
+    font-size: 20px;
+    color: rgb(94, 106, 206);;
+}
+
+.temperatura3 {
+    font-size: 30px;
+    color: rgb(94, 106, 206);
+}
+
